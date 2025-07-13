@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "title": "Spring Boot Fundamentals",
+    "description": "Learn the basics of Spring Boot and how to build RESTful APIs.",
+    "category": "Programming",
+    "instructor": "Jane Doe",
+    "price": 49.99,
+    "startDate": "2025-08-01",
+    "endDate": "2025-09-01",
+    "tags": ["spring", "java", "backend"]
+  },
+  {
+    "id": "2",
+    "title": "Advanced Elasticsearch",
+    "description": "Deep dive into Elasticsearch queries, aggregations, and performance tuning.",
+    "category": "Data Science",
+    "instructor": "John Smith",
+    "price": 79.99,
+    "startDate": "2025-09-10",
+    "endDate": "2025-10-10",
+    "tags": ["elasticsearch", "search", "analytics"]
+  },
+  {
+    "id": "3",
+    "title": "Full Stack Web Development",
+    "description": "Become a full stack developer with hands-on projects in React and Spring Boot.",
+    "category": "Web Development",
+    "instructor": "Alice Johnson",
+    "price": 99.99,
+    "startDate": "2025-07-20",
+    "endDate": "2025-09-20",
+    "tags": ["react", "spring", "fullstack"]
+  }
+] 
